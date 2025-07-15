@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Miama;
+    src: url("fonts/Miama.otf") format("opentype");
+}
+@font-face {
+    font-family: Cormorant;
+    src: url("fonts/Cormorant-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: CormorantInfanct;
+    src: url("fonts/CormorantInfanct-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: CormorantGaramond;
+    src: url("fonts/CormorantGaramond-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: CormorantUpright;
+    src: url("fonts/CormorantUpright-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: CormorantUnicase;
+    src: url("fonts/CormorantUnicase-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: Baskerville;
+    src: url("fonts/baskervi.ttf") format("truetype");
+}
+@font-face {
+    font-family: spinwerad;
+    src: url("fonts/spinwerad.ttf") format("truetype");
+}
+@font-face {
+    font-family: GreatVibes;
+    src: url("fonts/GreatVibes-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: PlayfairDisplay;
+    src: url("fonts/PlayfairDisplay-Regular.ttf") format("truetype");
+}
